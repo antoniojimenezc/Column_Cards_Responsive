@@ -91,18 +91,19 @@ color: var(--dar--cyan);
 @media (max-width: 375px) {
 
   body {
-    width: 375px;
-    height: 1405px 
+    height: 1405px
+
   }
 
   .hero__container {
-    width: 330px;
-    display: inline-block;
-    margin: 30px 20px;
+    width: 300px;
+    margin: 20px auto;
+    display: block ;
   }
-  
+
   a {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
+
 
 }
